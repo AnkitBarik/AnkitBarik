@@ -33,6 +33,3 @@ Then there are others which are for fun:
 
 <!--## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=AnkitBarik&theme=onedark&no-frame=false&no-bg=false&margin-w=4)-->
-
----
-[![](https://visitcount.itsvg.in/api?id=AnkitBarik&icon=0&color=0)](https://visitcount.itsvg.in)
