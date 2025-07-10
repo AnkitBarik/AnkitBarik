@@ -26,9 +26,9 @@ Then there are others which are for fun:
 
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@AnkitBarik)](https://joss.theoj.org/papers/reviewed_by/@AnkitBarik)
 
-# 📊GitHub Stats :
+<!-- # 📊GitHub Stats : -->
 <!--![](https://github-readme-stats.vercel.app/api?username=AnkitBarik&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitBarik&theme=vue-dark&hide_border=false)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitBarik&theme=vue-dark&hide_border=false)<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitBarik&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 <!--## 🏆GitHub Trophies
